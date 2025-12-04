@@ -17,3 +17,5 @@
 | filebrowser |
 | jellyfin |
 | alpine |
+
+si, se que es horrible pero lo iré mejorando
