@@ -1,2 +1,19 @@
 # cuadernillo-docker
-Ignoren esto, es un trabajo de clase
+
+| Nombres |
+| --- |
+| Snapdrop |
+| Libreoffice |
+| Firefox |
+| Obsidian |
+| VSCode |
+| PiHole |
+| KaliLinux |
+| Apache |
+| Duplicati |
+| Portainer |
+| Excalidraw |
+| Wordpress |
+| filebrowser |
+| jellyfin |
+| alpine |
